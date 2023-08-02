@@ -91,9 +91,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Mark-3 Screen Shot][product-screenshot]](https://youtu.be/zjhYZU-olpo)
 
-[![Screen shots][screen-shot-1]](https://example.com)
+
+
+
+
+
+[![Mark-3 Screen Shot 2][product-screenshot-2]](https://youtu.be/zjhYZU-olpo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,7 +197,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 -->
 
 <!-- Target audience -->
-## Contributing
+## Target Audience
 
 The game is designed for middle and high school students who are new to coding or have minimal programming experience. It can also serve as an excellent supplementary tool for coding and computer science classes.
 
@@ -229,7 +234,8 @@ Project Demo Link: [Video Demo](https://youtube.com/playlist?list=PLpSi8Gwi0z9ny
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/ss1.png
+[product-screenshot-2]: images/ss2.png
 [unity.js]: https://img.shields.io/badge/unity%203D-000000?style=for-the-badge&logo=unity&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
