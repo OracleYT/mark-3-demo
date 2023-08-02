@@ -18,6 +18,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
+<!--
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -25,24 +28,27 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+-->
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+   <!--
   <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> 
+  -->
 
-<h3 align="center">project_title</h3>
+<h1 align="center">MARK - 3</h1>
 
   <p align="center">
-    project_description
+     Unity game with a Visual code Editor (Drag & Drop) to run the Ship as per the commands of the user.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/OracleYT/mark-3-demo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://youtu.be/zjhYZU-olpo">View Demo Video</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
