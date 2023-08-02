@@ -34,11 +34,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-   <!--
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+
+  <a href="https://github.com/OraclYT/mark-3-demo">
+    <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a> 
-  -->
+
 
 <h1 align="center">MARK - 3</h1>
 
@@ -50,9 +50,11 @@
     <br />
     <a href="https://youtu.be/zjhYZU-olpo">View Demo Video</a>
     ·
+     <!--
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+     -->
   </p>
 </div>
 
@@ -91,7 +93,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+[![Screen shots][screen-shot-1]](https://example.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +101,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![Unity][unity.js]][Next-url]
+* [![C][C.js]][Vue-url]
+<!--
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -107,7 +111,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-
+-->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -115,17 +119,27 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+MARK-3 is an educational Unity 3D game designed to introduce students to the world of coding through a space-themed interactive experience. In this game, students will embark on an intergalactic journey as they become space pilots, navigating their spacecraft through challenging cosmic terrains to reach their destination.
 
-### Prerequisites
+The core concept of the game revolves around using block-based programming to plan the route for the spaceship. Instead of traditional lines of code, the students will use a drag-and-drop system that employs visual blocks of statements, making coding concepts more accessible and engaging for beginners.
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Features
 
+1. `Intuitive User Interface`: The game will offer a user-friendly interface with a <b>toolbox</b> of programming blocks that students can use to create a series of actions for the space ship.
+
+2. `Cosmic Adventures`: Students will explore a <b>visually stunning</b> and diverse interstellar environment, featuring planets, asteroids, nebulae, and other celestial objects, each presenting unique challenges for route planning.
+
+3. `Block-Based Route Planning`: By <b>dragging</b> and connecting coding blocks, students will define the ship's route, including movement, rotations, and interactions with the environment.
+
+4. `Progressive Difficulty`: The game will offer a gradual learning curve, introducing new coding concepts and challenges as players advance through the <b>levels</b>.
+
+5. `Real-Time Feedback`: Students will receive <b>instant feedback</b> on their code blocks, allowing them to debug and optimize their routes for efficiency and accuracy.
+
+6. `Creative Freedom`: The game will <b>encourage creativity</b>, allowing students to experiment with different coding approaches and refine their problem-solving skills.
+
+7. `Gamified Learning`: Students will earn rewards as they complete levels, providing a sense of accomplishment and <b>motivation</b> to continue learning.
+   
+<!--
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
@@ -141,23 +155,29 @@ This is an example of how to list things you need to use the software and how to
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
+-->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## Educational Benefit
+
+- `Introduction to Coding Concepts`: Students will learn fundamental coding concepts such as conditionals, and functions through the <b>visual representation</b> of code blocks.
+  
+- `Logical Thinking`: The game will challenge students to think <b>logically</b> and plan strategically to reach the destination efficiently.
+  
+- `Debugging Skills`: Debugging capabilities will help students <b>identify and fix errors</b>, reinforcing the importance of precise coding.
+  
+- `Computational Thinking`: Students will <b>develop computational thinking</b> skills as they break down complex tasks into smaller, manageable steps.
+  
+- `Problem-Solving Skills`: By overcoming various obstacles in space, students will enhance their <b>problem-solving</b> abilities.
+
+
+_For more examples, please refer to the [Github](https://github.com/OracleYT/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
+<!-- ROADMAP 
 ## Roadmap
 
 - [ ] Feature 1
@@ -169,30 +189,14 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+-->
 
-
-<!-- CONTRIBUTING -->
+<!-- Target audience -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+The game is designed for middle and high school students who are new to coding or have minimal programming experience. It can also serve as an excellent supplementary tool for coding and computer science classes.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Overall, Cosmic Route Planner aims to ignite students' passion for coding and space exploration while providing a solid foundation in block-based programming, making the concept of coding clear and accessible to all aspiring space adventurers!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,20 +205,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Bhargav Singh Barad - [@linkedin](https://www.linkedin.com/in/bhargav-singh-barad/) - bhargavsinghbarad007@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Project Demo Link: [Video Demo](https://youtube.com/playlist?list=PLpSi8Gwi0z9nyUyJVV74FNBRccZhwmUbg)
 
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -235,11 +230,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[unity.js]: https://img.shields.io/badge/unity%203D-000000?style=for-the-badge&logo=unity&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[C.js]: https://img.shields.io/badge/c%20sharp-000000?style=for-the-badge&logo=c&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
